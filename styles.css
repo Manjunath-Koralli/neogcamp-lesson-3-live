@@ -101,6 +101,9 @@ hr {
 
 /** section **/
 
+.section {
+    padding: 2rem;
+}
 .section h1 {
     text-align: center;
     padding: 2rem;
